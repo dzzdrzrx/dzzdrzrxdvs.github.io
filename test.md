@@ -58,31 +58,39 @@
 
 
 
-1.처음에는 뭐썼음?
+1.첨엔 뭐씀?
 >site123
 
-2.html말고 다른 프로그래밍잘함?
->pm uninstall --user 0
+2.html말고 다른 프로그래밍언어잘함?
+>pm uninstall --user 0 (당신의 생명이 위험해질수있습니다.)
 
 3.좋아하는것
->기기만지는거와 html 그리고.. 정신적치료. 또 피치(피자와치킨 (안다고 욕질금지))
+1.기기만지는거(adb나 그런거등등)
+2.노래듣기(특히 SoundCloud에서 들음)
+3.정신적치료(정신병 ADHD라서 치료가필요함)
+근데 약효과가있을지 모르겠음
+먹어봐서아는거
+4.피치(피자와치킨 조합)군싹...
 
 4.싫어하는것
->gnarpy(relevator에서 본놈)
+1.gnarpy(relevator(《《 Regretevator)에서 본놈)(저거 번역하면 나르피임 아닐수도?)
+오타남ㅈㅅ
+relevator 아니라 Regretevator임ㅈㅅ
+왜 Regretevator임?
+근데 내가 정신병ADHD여서 저거보면 미쳐버리겠음 약효과가 있는가?
+2.그외들(수상하게보이는 그외들 보낼시 뒤짐)
 
-
-
+5.듣는노래들
+>내 SoundCloud 닉찾으면 듣기가능.
 ------------
-1.cou팡에서 (기억은 안나지만) roblox인형을 검색
-2.보는데 skfvml라는(쿼티)인형을 발견
-3.궁금해서 크롬으로 검색
-ㄴ 안나오는줄 알았지만 나온다. ㅁㅊ
-4.treeWiki를 봄
-5.relevator에서 나온 친구라고함
-6."난 몰랐다."(ㄱㄱㅇㅇ ㅎㄷㄴ ㄸ)
-7.인생조졌음
-
+내가 ADHD여서 그렇지(지금은 괜찮아짐 ㅇㅁㄷ)
+gnarpy를본다고 미친듯이 하지않음.
+걱정안해도됨.
+phew...
+------------
+노래링크아님
 https://youtu.be/hEyk-Yfzf3I
+https://youtu.be/Ab5PXFSm7SY
 ------------
--pm uninstall --user 0
-
+-pm uninstall --user 0(꼭필요한 코드)
+내꺼임
