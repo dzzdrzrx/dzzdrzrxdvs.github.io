@@ -77,8 +77,7 @@
 
 5.듣는노래들
 >내 SoundCloud 닉찾으면 듣기가능.
-------------listcodes
-노래링크아님
-
+------------
+popkjff
 ------------
 -pm uninstall --user 0
